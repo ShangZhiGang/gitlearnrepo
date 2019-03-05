@@ -1,1 +1,4 @@
 呵呵哈哈嘿嘿川大教师功能戚墅堰田悲哉加压
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
